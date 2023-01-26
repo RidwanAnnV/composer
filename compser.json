@@ -1,0 +1,11 @@
+{"name": "programerzamannow/ridwan-composer",
+"description": "Belajar PHP Composer",
+"type": "project",
+"autohors":[
+    {
+        "name":"Muhamad Ridwan Annafi",
+        "email": "ridwan09mv@gmail.com"
+    }
+],
+"require": {}
+}
